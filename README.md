@@ -6,3 +6,20 @@ Base code was made by DogeDude22 and Zack-21-a, with art made by Zack-21-a. You 
 
 # How we ended up here
 While the game was a very good learning experience, I think it could have been better. So in September 2020, I went back with one goal: Make it close to the vision I had when we set out on this project. Somethings still remain, such as level design and menu art. But there is a whole graphics overhaul and some code improvement, along with a decrease in file size.
+
+
+# Badges
+What can I say, they're funny
+
+
+https://forthebadge.com/images/badges/fixed-bugs.svg
+https://forthebadge.com/images/badges/made-with-c-plus-plus.svg
+https://forthebadge.com/images/badges/open-source.svg
+
+https://forthebadge.com/images/badges/it-works-why.svg
+https://forthebadge.com/images/badges/0-percent-optimized.svg
+https://forthebadge.com/images/badges/built-with-resentment.svg
+https://forthebadge.com/images/badges/check-it-out.svg
+https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg
+https://forthebadge.com/images/badges/works-on-my-machine.svg
+https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg
