@@ -18,8 +18,7 @@ https://forthebadge.com/images/badges/open-source.svg
 
 https://forthebadge.com/images/badges/it-works-why.svg
 https://forthebadge.com/images/badges/0-percent-optimized.svg
-https://forthebadge.com/images/badges/built-with-resentment.svg
-https://forthebadge.com/images/badges/check-it-out.svg
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)https://forthebadge.com/images/badges/check-it-out.svg
 https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg
 https://forthebadge.com/images/badges/works-on-my-machine.svg
 https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg
