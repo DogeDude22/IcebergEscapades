@@ -8,6 +8,22 @@ Base code was made by DogeDude22 and Zack-21-a, with art made by Zack-21-a. You 
 While the game was a very good learning experience, I think it could have been better. So in September 2020, I went back with one goal: Make it close to the vision I had when we set out on this project. Somethings still remain, such as level design and menu art. But there is a whole graphics overhaul and some code improvement, along with a decrease in file size.
 
 
+# Credits
+This game couldn't be where it is today without lots of work. And some free assets
+
+Programming
+
+Zack-21-a - Menu, Music Contorller, Timer
+DogeDude22 - Menu, Player Controller, Collisions
+
+Art
+Zack-21-a - Wireframe
+Happyface - Skybox and Menu Background
+Kirill Krysov - Polar Bear
+jobromedia - Music
+kenney.nl - Level Assets
+
+
 # Badges
 What can I say, they're funny
 
