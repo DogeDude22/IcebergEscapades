@@ -27,13 +27,13 @@ kenney.nl - Level Assets
 # Badges
 What can I say, they're funny
 
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)  
+![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)  
+![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)  
 
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
-![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)  
+![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)  
+![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)  
+![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)  
+![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)  
+![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)  
